@@ -16,7 +16,6 @@ Multiplication
 
 Division
 
-Outputs the result of each operation
 ____________________________________
 
 
@@ -28,3 +27,5 @@ Prompts the user to enter their first name.
 Prompts the user to enter their last name.
 
 Displays a personalized greeting like : Hello , JohnDoe! Welcome to the python program.
+
+
