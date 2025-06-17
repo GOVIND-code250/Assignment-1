@@ -1,5 +1,3 @@
-from ftplib import parse229
-
 p = int(input('p: '))
 n = int(input('n: '))
 print("addition : ", int(p+n))
